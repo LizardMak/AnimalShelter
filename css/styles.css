@@ -1,0 +1,18 @@
+.columns {
+  margin-left: 15%;
+  float: left;
+  font-size:medium;
+}
+.title {
+  text-align: center;
+  margin-right: 12%;
+  color:red;
+}
+body h2 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:green;
+} 
+.image {
+  height:100px;
+  margin-top:2%;
+}
